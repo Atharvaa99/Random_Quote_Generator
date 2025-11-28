@@ -19,9 +19,9 @@ Clean, centered layout with shadow effects
 
 Technologies Used
 
-HTML5: Structure and semantic markup
-CSS3: Styling with custom properties and responsive design
-JavaScript (ES6+): Async/await for API calls and DOM manipulation
-Font Awesome: Icon library for visual elements
-Google Fonts: Forum font family for elegant typography
-Quotable API: External quote source
+* HTML5: Structure and semantic markup
+* CSS3: Styling with custom properties and responsive design
+* JavaScript (ES6+): Async/await for API calls and DOM manipulation
+* Font Awesome: Icon library for visual elements
+* Google Fonts: Forum font family for elegant typography
+* Quotable API: External quote source
